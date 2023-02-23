@@ -277,7 +277,7 @@ pcall(function()
         }
     )
                       
-    properties.Text = ">_ for Language >d for default language."
+    properties.Text = "[TR]  >_ for Language >d for default language."
     StarterGui:SetCore("ChatMakeSystemMessage", properties)
     
     function translateFrom(message)
